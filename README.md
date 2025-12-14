@@ -45,7 +45,3 @@ but I go by **Vex** . I’m currently enrolled in a school-based ITA (Informatis
 <img src="https://raw.githubusercontent.com/abduli-vex/abduli-vex/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
