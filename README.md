@@ -4,7 +4,7 @@
 
 **I'm Abduli Pütz**,
 <br clear="both">
-but I go by **Vex** . I’m currently enrolled in a school-based ITA (Informatische Technische Assistant) program and have around five years of experience as a full-stack web developer. In my free time, I enjoy building small ASCII-based, text-driven console games.
+I’m currently enrolled in a school-based ITA (Informatische Technische Assistant) program. In my free time, I enjoy building small ASCII-based, text-driven console games.
 
 ###
 
